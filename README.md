@@ -1,8 +1,56 @@
-- 👋 Hi, I’m @UelioNobre
-- 👀 I’m interested in learn new technologies like Node, Mongo, React, ReactNative ...
-- 🌱 I’m currently learning Node, Mongo and React...
-- 💞️ I’m looking to collaborate on, so that more users can use the internet through systems and applications developed by the Javascript stack....
-- 📫 How to reach me @uelionobre on Meta and Twitter
+# Sobre o Uélio Nobre
+
+- 👋 Olá, eu sou o @UélioNobre
+- 👀 Interessado em aprender novas tecnologias como HTML, CSS, Javascript, Node, Express, Mongo, React, ReactNative ...
+- 🌱 Atualmente aprendendo mais sobre HTML, CSS, Javascript, Node e Mongo
+- 💞️ Sempre que posso, tento colaborar com o algum projeto em outras tecnologias como PHP e MySQL
+- 📫 @uelionobre
+
+
+### Portfólio
+
+- Calculadora MacOs - [Visitar](https://github.com/UelioNobre/portfolio/tree/main/works/calculadora-macos)
+
+  Calculadora feita com HTML e CSS utilizando flexbox para criar o layout.
+  ![Screenshot](https://github.com/UelioNobre/portfolio/blob/main/works/calculadora-macos/images/screenshot.png)
+
+- Business Card - [Visitar](https://github.com/UelioNobre/portfolio/blob/main/works/calculadora-macos/images/screenshot.png)
+
+  _Web Business Card_ é um projeto que atua como um cartão de visitas web.
+
+![Projeto](https://github.com/UelioNobre/portfolio/blob/main/works/app-bussiness-card/images/screenshot.png)
+
+### Stack PHP
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Stack Javascript
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Outras plataformas/tecnologias (Mac/Win)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+![Uélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=UelioNobre&count_private=true)
 
 <!---
 UelioNobre/UelioNobre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
