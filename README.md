@@ -4,7 +4,7 @@
 
 Olá, eu sou o UélioNobre 👋
  
-A minha fase atual, é o aprofundamento de conhecimentos em desenvolvimento web, utilizando algumas tecnologias citadas logo abaixo. Esta verticalização de conteúdos e tecnologias esta sendo adquirida através da Trybe, no qual sou estudante da Turma 26A.
+A minha fase atual, é o aprofundamento de conhecimentos em desenvolvimento web, utilizando algumas tecnologias citadas logo abaixo. Esta verticalização de conteúdos e tecnologias estão sendo adquiridas através da Trybe, no qual sou estudante da Turma 26A 🚀
 
 Sempre que posso, tento colaborar com o algum projeto (❤️) em outras tecnologias como PHP, Python e a stack Javascript.
 Se quiser me perguntar algo ou tirar alguma dúvida, me chama no [Linkedln](https://www.linkedin.com/in/fransuelio-nobre-b5ba7a66/), responderei assim que puder 😉
