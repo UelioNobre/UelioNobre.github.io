@@ -5,10 +5,8 @@
  Olá, eu sou o UélioNobre 👋
  
  A minha fase atual, é o aprofundamento de conhecimentos em desenvolvimento web, utilizando algumas tecnologias citadas logo abaixo. Esta verticalização de conteúdos e tecnologias esta sendo adquirida através da Trybe, no qual sou estudante da Turma 26A.
- 
-- 👀 Interessado em aprender novas tecnologias como HTML, CSS, Javascript, Node, Express, Mongo, React, ReactNative ...
-- 🌱 Atualmente aprendendo mais sobre HTML, CSS, Javascript, Node e Mongo
-- 💞️ Sempre que posso, tento colaborar com o algum projeto em outras tecnologias como PHP, Python e a stack Javascript.
+
+Sempre que posso, tento colaborar com o algum projeto (❤️) em outras tecnologias como PHP, Python e a stack Javascript.
 - [Linkedln](https://www.linkedin.com/in/fransuelio-nobre-b5ba7a66/)
 
 
