@@ -55,3 +55,4 @@ Se quiser me perguntar algo ou tirar alguma dúvida, me chama no [Linkedln](http
 UelioNobre/UelioNobre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Esta linha de texto foi adicionada utilizando uma chave ssh
