@@ -59,7 +59,7 @@ function resetText(event) {
 }
 
 firstLi.addEventListener('dblclick', resetText);
-myWebpage.addEventListener('mouseover', function (e) { e.target.style.color = '#2fc18c' });
+myWebpage.addEventListener('mouseover', function (e) { this.style.color = '#2fc18c' });
 myWebpage.addEventListener('mouseleave', function(e){e.target.style.color = 'white'})
 
 // Não precisa passar o parâmetro dentro da callback resetText. O próprio
