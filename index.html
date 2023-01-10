@@ -1,94 +1,120 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Uélio Nobre - Desenvolvimento Web</title>
-</head>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uélio Nobre - Desenvolvimento Web</title>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+    </style>
+    <link rel="stylesheet" href="style.css">
+  </head>
 
-<body>
+  <body>
 
-  <h1>Fransuelio <em>(Uélio)</em> Nobre</h1>
+    <header>
+      <section class="container">
+        <div class="header">
+          <h1 class="logo">Uélio Nobre</h1>
+          <nav>
+            <a href="#">Sobre</a>
+            <a href="#">Habilidades</a>
+            <a href="#">Contato</a>
+          </nav>
+        </div>
+      </section>
+    </header>
 
-  <img id="me" src="./assets/images/me.png" alt="Foto de perfil de Fransuelio Nobre" width="300px">
+    <main>
+      <section class="container page" id="about-me">
+        <article class="hero">
+          <div>
+            <h2>Sobre mim</h2>
+            <h3><em>(About me)</em></h3>
+            <p>
+              Olá, eu sou <strong>Fransuelio Nobre</strong>, pode me
+              chamar de <strong>Uélio</strong> também ;)
+            </p>
+            <p>
+              <strong>Brasileiro</strong>, nascido Juazeiro do Norte, e morando na Zona Rural de uma pequena cidade chamada de <strong>Missão Velha</strong>, localizada no estado do <strong>Ceará</strong>.
+            </p>
+            <p>
+              HTML, CSS, Javascript, React, Jest são as tecnologias que estão no meu cotidiano.
+            </p>
+            <p>
+              Apaixonado por tecnologias (e cuzcuz também!), livros técnicos.
+              Quando não estou no computador e estudante de Desenvolvimento Web na Trybe.
+            </p>
+          </div>
 
-  <br><br><br><br><br><br><br><br><br><br>
-  <hr>
-  <br><br><br><br><br>
+          <img id="me" src="./assets/images/me.png"
+            alt="Foto de perfil de Fransuelio Nobre" width="300px" />
+        </article>
 
-  <h2 id="about-me">Sobre mim</h2>
-  <h3><em>(About me)</em></h3>
+      </section>
 
-  <p>
-    Olá, eu sou <strong>Fransuelio Nobre</strong>, mas pode <br>me chamar de <strong>Uélio</strong> ;)</p>
+      <hr>
 
-  <p>
-    <strong>Brasileiro</strong>, nascido Juazeiro do Norte, mas atualmente moro na Zona Rural de uma pequena cidade vizinha, chamada de <strong>Missão Velha</strong> <em>(Old Mission para os íntimos)</em>, localizada no estado do <strong>Ceará</strong>.
-  </p>
+      <section class="container page bg_blue"  id="skills">
+        <h2>Habilidades</h2>
+        <h3><em>(Skills)</em></h3>
 
-  <p>
-    Há um bom tempo ando muito próximo da Área de TI, com ênfase em linguagens de programação e banco de dados. Logo, em <strong>2017</strong> conclui o Bacharelado em <strong>Sistemas de Informação</strong>.</p>
+        Alguma habilidades que adquiri ao longo dessa minha jornada:
+        <ul>
+          <li>
+            <strong>Lógica</strong><br>
+            Além de ser aplicar na programação de computadores, também aplico
+            para
+            resolver outras questões da vida real.
+          </li>
+          <li>
+            <strong>Criativo</strong><br>
+            Gosto de fazer coisas novas, aprender coisas novas e aplicar ao
+            máximo
+            em
+            vários contextos.
+          </li>
+          <li>
+            <strong>Calmo e Paciente</strong><br>
+            Dois comportamentos que não podem faltar em uma boa conversa.
+          </li>
+        </ul>
+      </section>
 
-  <p>
-    Apaixonado por tecnologias (e cuzcuz, rsrsrs), livros técnicos e muito curioso, sempre estou lendo sobre algum assunto relacionado Tecnologia da Informação ou sobre coisas fora da área de TI também. Atualmente sou estudante de Desenvolvimento Web na Trybe, uma dass melhores escolas de Programação do Brasil.</p>
+      <section class="container page">
+        <h2>Eu</h2>
+        <h3><em>(Me)</em></h3>
+        <p>Um link interno para <a href="#me" target="_self">minha foto</a>.</p>
+        <h2 id="recommendation">Recomendação de blog para leitura</h2>
+        <h3><em>(Blog recommendation for reading)</em></h3>
+        <ul>
+          <li>
+            <a href="https://blog.betrybe.com/" target="_blank">
+              Blog da Trybe
+            </a>
+          </li>
+        </ul>
 
-  <br><br><br><br><br><br><br><br><br><br>
-  <hr>
-  <br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br><br>
+        <hr>
+        <br><br><br><br><br>
 
-  <h2 id="skills">Habilidades</h2>
-  <h3><em>(Skills)</em></h3>
+        <h2>Menu</h2>
+        <h3><em>(Menu)</em></h3>
 
-  Alguma habilidades que adquiri ao longo dessa minha jornada:
-  <ul>
-    <li>
-      <strong>Lógica</strong><br>
-      Além de ser aplicar na programação de computadores, também aplico para resolver outras questões da vida real.
-    </li>
-    <li>
-      <strong>Criativo</strong><br>
-      Gosto de fazer coisas novas, aprender coisas novas e aplicar ao máximo em vários contextos.
-    </li>
-    <li>
-      <strong>Calmo e Paciente</strong><br>
-      Dois comportamentos que não podem faltar em uma boa conversa.
-    </li>
-  </ul>
+        <ul>
+          <li><a href="#about-me">Sobre mim (About me)</a></li>
+          <li><a href="#skills">Habilidades (Skills)</a></li>
+          <li><a href="#me">Eu (Me)</a></li>
+          <li><a href="#recommendation">Recomendação de blog para leitura (Blog
+              recommendation for reading)</a>
+          </li>
+        </ul>
+      </section>
 
-  <br><br><br><br><br><br><br><br><br><br>
-  <hr>
-  <br><br><br><br><br>
-
-  <h2>Eu</h2>
-  <h3><em>(Me)</em></h3>
-
-  <p>Um link interno para <a href="#me" target="_self">minha foto</a>.</p>
-
-
-  <h2 id="recommendation">Recomendação de blog para leitura</h2>
-  <h3><em>(Blog recommendation for reading)</em></h3>
-
-  <ul>
-    <li><a href="https://blog.betrybe.com/" target="_blank">Blog da Trybe</a></li>
-  </ul>
-
-  <br><br><br><br><br><br><br><br><br><br>
-  <hr>
-  <br><br><br><br><br>
-
-  <h2>Menu</h2>
-  <h3><em>(Menu)</em></h3>
-
-  <ul>
-    <li><a href="#about-me">Sobre mim (About me)</a></li>
-    <li><a href="#skills">Habilidades (Skills)</a></li>
-    <li><a href="#me">Eu (Me)</a></li>
-    <li><a href="#recommendation">Recomendação de blog para leitura (Blog recommendation for reading)</a>
-    </li>
-  </ul>
-
-</body>
+    </main>
+  </body>
 
 </html>
