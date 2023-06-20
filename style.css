@@ -47,7 +47,8 @@ header p
 
 header img
 {
-  width: 70%;
+  width: 200px;
+  height: auto;
   border-radius: 100%;
   margin: 2rem auto;
   border: 1px solid lightgray;
@@ -120,7 +121,7 @@ footer p
 }
 
 /* 768 */
-@media screen and (max-width: 768px)
+@media screen and (min-width: 768px)
 {
   header, main, footer
   {
@@ -134,7 +135,7 @@ footer p
 }
 
 /* 992 */
-@media screen and (max-width: 992px)
+@media screen and (min-width: 992px)
 {
   body {
 margin-top: 5rem;
@@ -172,9 +173,4 @@ margin-top: 5rem;
   .networks {
     justify-content: start;
   }
-}
-
-
-.borda {
-  border: 1px solid red;
 }
