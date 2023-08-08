@@ -52,7 +52,6 @@ header img
   border-radius: 100%;
   margin: 2rem auto;
   border: 1px solid lightgray;
-  box-shadow: cadetblue;
   -webkit-box-shadow: 0px 0px 38px -6px rgb(194, 194, 194);
   -moz-box-shadow: 0px 0px 38px -6px rgba(194, 194, 194);
   box-shadow: 0px 0px 38px -6px rgba(194, 194, 194);
@@ -66,7 +65,7 @@ main
   display: flex;
   flex-direction: column;
   text-align: center;
-  padding: var(--padding-content);
+  /* padding: var(--padding-content); */
 }
 
 main h2
@@ -137,8 +136,9 @@ footer p
 /* 992 */
 @media screen and (min-width: 992px)
 {
-  body {
-margin-top: 5rem;
+  body
+  {
+    margin-top: 5rem;
   }
 
   header, main, footer
@@ -146,13 +146,15 @@ margin-top: 5rem;
     max-width: 900px;
   }
 
-  header {
+  header
+  {
     flex-direction: row;
     justify-content: space-between;
     gap: 3rem;
   }
 
-  header h1 {
+  header h1
+  {
     text-align: left;
     font-size: 4rem;
   }
@@ -162,15 +164,50 @@ margin-top: 5rem;
     width: 250px;
   }
 
-  main{
+  main
+  {
     align-items: start;
   }
 
-  footer h2 {
+  footer h2
+  {
     text-align: left;
   }
 
-  .networks {
+  .networks
+  {
     justify-content: start;
   }
+}
+
+/* Portfolio */
+.portfolio
+{
+  padding: 2rem;
+  transform: skewY(-4deg);
+  background-color: #E6F6F7;
+}
+
+.portfolio-container
+{
+  transform: skewY(4deg);
+}
+
+.portfolio-button
+{
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.active
+{
+  color: var(--primary-color);
+}
+
+.portfolio-works {
+  margin: 2rem 0;
+  background-color: red;
 }
