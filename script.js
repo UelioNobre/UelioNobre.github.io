@@ -2,10 +2,6 @@
 const buttons = document.getElementsByClassName('portfolio-button');
 const buttonsLength = buttons.length;
 
-function filterWorks(work) {
-  console.log(work);
-}
-
 function filterWorks(e) {
   e.preventDefault();
   filterWorks(e.target.innerHTML);
