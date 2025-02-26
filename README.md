@@ -29,3 +29,6 @@ _"A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pess
 7. Partes do seu portfólio destacadas com negrito e/ou itálico;
 
 8. Um índice com links internos para as diferentes seções do seu portfólio.
+
+
+![Alt](https://repobeats.axiom.co/api/embed/0b6464d2b2a7b8f4b19da01bed1c4e4ef9f50bda.svg "Repobeats analytics image")
